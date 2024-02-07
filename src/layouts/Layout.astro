@@ -6,6 +6,7 @@ interface Props {
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Carousel from '../components/Carousel.astro';
+import Hero from '../components/Hero.astro';
 
 const { title } = Astro.props;
 ---
@@ -23,7 +24,7 @@ const { title } = Astro.props;
 	</head>
 	<body>
 		<Header />
-		<Carousel />
+		<Hero />
 		<slot />
 		<Footer />
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.js"></script>
