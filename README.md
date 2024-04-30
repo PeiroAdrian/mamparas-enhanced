@@ -1,3 +1,15 @@
+# 🐱‍💻 Created for didactic purposes
+This project was created for didactic purposes, to learn how to use Astro and improve tailwindcss skills. The project is a simple but minimalist landing page, with a header, a hero section, a features section, a footer and a contact form. The project is responsive and uses tailwindcss for styling.
+
+## 🙌 Contributions
+Contributions are welcome, feel free to open an issue or a pull request.
+
+## 🚀 Technologies
+- [Astro](https://astro.build/)
+- [Tailwindcss](https://tailwindcss.com/)
+
+## 
+
 # Astro Starter Kit: Basics
 
 ```sh
